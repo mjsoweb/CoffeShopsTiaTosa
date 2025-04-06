@@ -4,7 +4,7 @@ Bem-vindo ao site da Cafeteria **Tia Rosa**!
 Este é um projeto desenvolvido para fins acadêmicos, com o objetivo de apresentar uma cafeteria fictícia com cardápio digital.
 
 ## 🌐 Link de Acesso
-🔗   
+🔗   index.html
 
 ---
 
